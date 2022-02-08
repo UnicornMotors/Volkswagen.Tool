@@ -6,7 +6,18 @@
 
 ## Supplier:
 ### Favorite:
-- NAPA has durable impact sockets https://www.napaonline.com/en/search?text=12%20point%20socket%2016mm&referer=v2
+**NAPA has durable impact sockets!**
+- [sch:](https://www.napaonline.com/en/search?text=12%20point%20socket%2016mm&referer=v2)
+
+Deep:
+- 6.99 https://www.napaonline.com/en/p/NPT612516
+- 12.49 https://www.napaonline.com/en/p/NPT614716
+
+Shallow:
+- 4.89 https://www.napaonline.com/en/p/CHTS38116M
+- 6.99 https://www.napaonline.com/en/p/NPT614516
+- 10.99 https://www.napaonline.com/en/p/SER341483
+- 18.69 https://www.napaonline.com/en/p/NPT619116
 
 ### all
 - https://www.lowes.com/pd/Kobalt-Metric-1-2-in-Drive-12-point-18mm-Shallow-Socket/3387250
