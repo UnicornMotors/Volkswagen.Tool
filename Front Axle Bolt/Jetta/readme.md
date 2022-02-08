@@ -5,8 +5,8 @@
 
 
 ## Supplier:
-### Favorite:
-**NAPA has durable impact sockets!**
+### Favorite: Hardened Impact Socket
+**NAPA has more durable sockets!**
 - [sch:](https://www.napaonline.com/en/search?text=12%20point%20socket%2016mm&referer=v2)
 
 Deep:
