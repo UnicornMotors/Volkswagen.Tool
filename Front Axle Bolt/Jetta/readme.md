@@ -7,4 +7,7 @@
 ## Supplier:
 - https://www.lowes.com/pd/Kobalt-Metric-1-2-in-Drive-12-point-18mm-Shallow-Socket/3387250
 
+### sch:
 [sch: Amazon](https://www.amazon.com/12-Point-Socket-Sets/s?k=12+Point+Socket+Sets)
+
+[sch: Home Depot](https://www.homedepot.com/b/Tools-Hand-Tools-Ratchets-Sockets-Sockets/12-point/N-5yc1vZc24uZ1z0sk19) [sch: Home Depot 2](https://www.homedepot.com/b/Tools-Hand-Tools-Ratchets-Sockets-Sockets/Metric/12-point/N-5yc1vZc24uZ1z0sc32Z1z0sk19)
