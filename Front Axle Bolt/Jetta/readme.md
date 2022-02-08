@@ -5,6 +5,10 @@
 
 
 ## Supplier:
+### Favorite:
+- NAPA has durable impact sockets https://www.napaonline.com/en/search?text=12%20point%20socket%2016mm&referer=v2
+
+### all
 - https://www.lowes.com/pd/Kobalt-Metric-1-2-in-Drive-12-point-18mm-Shallow-Socket/3387250
 
 ### sch:
